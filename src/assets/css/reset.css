@@ -1,0 +1,75 @@
+@charset "utf-8";
+/*页面属性*/
+body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, td, img, div ,dl,dd,i{margin:0; padding:0; border:0; font-weight: normal; font-style: normal;}
+ul li{list-style:none;}
+body{color:#333;font-size:14px;font-family:"微软雅黑", Arial, Helvetica, sans-serif;}
+input{border: none; outline: none; font-family:"微软雅黑", Arial, Helvetica, sans-serif;}
+textarea{font-family:"微软雅黑", Arial, Helvetica, sans-serif;}
+a{text-decoration:none;outline:none; color: #333333;}
+img{border: none; vertical-align: middle;}
+p{text-align: justify;}
+.ellip{overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+.fl{float:left;}
+.fr{float:right;}
+.clear{clear:both;}
+.bc{margin-left:auto; margin-right:auto;}
+.tc{text-align:center;}
+.tr{text-align:right;}
+.zoom{overflow:hidden; zoom:1;}
+.f12{font-size:12px;}
+.f14{font-size:14px;}
+.f16{font-size:16px;}
+.f18{font-size:18px;}
+.f24{font-size:24px;}
+.l18{line-height:18px;}
+.l20{line-height:20px;}
+.l21{line-height:21px;}
+.l22{line-height:22px;}
+.l24{line-height:24px;}
+.l26{line-height:26px;}
+.l28{line-height:28px;}
+.l30{line-height:30px;}
+.l31{line-height:31px;}
+.l32{line-height:32px;}
+.t24{text-indent:24px;}
+.t28{text-indent:28px;}
+.t32{text-indent:32px;}
+.fb{font-weight:bold;}
+.hide{display: none;}
+.show{display: block;}
+.both{width: 100%;}
+/*----------margin-----------*/
+.mt3{margin-top:3px;}
+.mt5{margin-top:5px;}
+.mt10{margin-top:10px;}
+.mt15{margin-top:15px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt35{margin-top:35px;}
+.mt40{margin-top:40px;}
+.mt45{margin-top:45px;}
+.mt50{margin-top:50px;}
+.ml5{margin-left:5px;}
+.ml10{margin-left:10px;}
+.ml15{margin-left:15px;}
+.ml20{margin-left:20px;}
+.ml33{margin-left:33px;}
+.ml37{margin-left:37px;}
+.ml46{margin-left:46px;}
+.ml90{margin-left:90px;}
+.ml140{margin-left: 140px;}
+.mr5{margin-right:5px;}
+.mr10{margin-right:10px;}
+/*----------padding-----------*/
+.pt10{padding-top: 10px;}
+.pt20{padding-top: 20px;}
+.pad5{padding-top: 5px; padding-bottom: 5px;}
+/*----------颜色-----------*/
+.color_red{color: #ff0000;}
+.color_white{color: #ffffff;}
+.color_tianlan{color: #64b5ff;}
+.color_blue{color: #00529c;}
+.color_pink{color: #1afa29;}
+.color_black{color: #333333;}
+.color_orange{color: #ea5413;}
+.color_grey{color: #999999;}
