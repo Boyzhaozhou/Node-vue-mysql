@@ -1,30 +1,18 @@
 # heigo
 
-> A Vue.js project
+前端用的vue全套脚手架，配合element ui搭建
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+后端用的Node.js,配合express框架，使用mysql数据库
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
+src目录是前端代码
 
-# build for production and view the bundle analyzer report
-npm run build --report
 
-# run unit tests
-npm run unit
+server目录是服务端代码
 
-# run e2e tests
-npm run e2e
+初始化之后 使用npm install下载依赖
 
-# run all tests
-npm test
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
